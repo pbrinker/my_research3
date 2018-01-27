@@ -9,7 +9,8 @@ how to make a readme3
 ## my_research
 ![logo](logo.jpg)
 
-[show .odt](GitHub_help.odt)
+[Basic commmands GitHub](GitHub_help.odt)
+
 [website](https://www.rug.nl/staff/p.brinker/research)
 
 
