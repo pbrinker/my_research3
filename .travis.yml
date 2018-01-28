@@ -1,5 +1,4 @@
-install:
- - sudo gem install travis -v 1.8.8 --no-rdoc --no-ri
+
 
 script: 
 - ./GitHub_help.odt
