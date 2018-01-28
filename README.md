@@ -8,3 +8,13 @@ master|[![Build Status](https://travis-ci.org/pbrinker/my_research3.svg?branch=m
 my research
 how to make a readme3
 
+## my_research
+![logo](logo.jpg)
+
+[Basic_commands](GitHub_help.odt)
+
+[website](https://www.rug.nl/staff/p.brinker/research)
+
+
+>how to make a readme
+>yes.
