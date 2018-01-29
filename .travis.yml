@@ -24,3 +24,6 @@ install:
   # - sudo gem pristine --all
   # Show travis CLI version
   - travis --version --no-interactive 2>/dev/null
+
+script:
+  - ./run 
